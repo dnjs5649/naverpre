@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0ea79de3-53a6-488b-87e0-f5fee2fd6daf" name="aaaad" url="http://13.209.10.41">
+        <fileTransfer host="13.209.10.41" port="22" privateKey="C:\Users\user\Downloads\dnjs5649.pem" rootFolder="/home/ubuntu" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
